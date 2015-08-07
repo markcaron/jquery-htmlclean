@@ -517,7 +517,7 @@ Use and distibution http://www.opensource.org/licenses/bsd-license.php
 
     // tags which are inline
     var tagInline = [
-        "a", "abbr", "acronym", "address", "b", "big", "br", "button",
+        "abbr", "acronym", "address", "b", "big", "br", "button",
         "caption", "cite", "code", "del", "em", "font",
         "hr", "i", "input", "img", "ins", "label", "legend", "map", "q",
         "s", "samp", "select", "option", "param", "small", "span", "strike", "strong", "sub", "sup",
