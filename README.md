@@ -6,5 +6,5 @@ Fork from [jQuery HTML Clean plugin](https://code.google.com/p/jquery-clean/) to
 Package Managers
 ----------------
 
-* [Bower](http://twitter.github.com/bower/): `jquery-htmlclean`
-* [Composer](https://packagist.org/packages/components/jquery-htmlclean): `components/jquery-htmlclean`
+* [Bower](http://twitter.github.com/bower/): `jquery-html5clean`
+* [Composer](https://packagist.org/packages/components/jquery-htmlclean): `components/jquery-html5clean`
